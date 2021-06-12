@@ -71,9 +71,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: H1pers1NGulaR
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: A new robust algorithm to sustaining the market maker.
     actions:
       - label: Learn More
         url: /features
