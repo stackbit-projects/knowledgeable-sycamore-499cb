@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'New Trading Algorithm that can sustain the market maker by calculating '
+    title: New Trading Algorithm that can sustain the market maker by calcu
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
