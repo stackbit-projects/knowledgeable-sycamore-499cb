@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Main Terminal the new alternative to Git
+    title: New Trading Algorithm that can sustain the market maker
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
