@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Main Terminal '
+    title: Main Terminal the new alter
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
