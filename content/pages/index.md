@@ -56,7 +56,7 @@ sections:
       - title: Feature 3
         content: >
           User can choose the simulation method before running the algorithm on
-          real market. with the great UI.
+          real market. with the great and convenient UI.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
