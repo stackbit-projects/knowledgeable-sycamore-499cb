@@ -46,7 +46,7 @@ sections:
           Auto generate report not only fo user but for future references by Ai
           processing.
         align: left
-        image: images/feature.svg
+        image: /images/gold-w1-xm-global-limited.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
