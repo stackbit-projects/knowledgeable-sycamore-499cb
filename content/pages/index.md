@@ -54,10 +54,9 @@ sections:
             url: /features
             style: secondary
       - title: Feature 3
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          User can choose the simulation method before running the algorithm on
+          real market. with the great UI.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
