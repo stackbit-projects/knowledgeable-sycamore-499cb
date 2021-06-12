@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: 'New Trading Algorithm '
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      By creating multiple "Ghost" transaction to test the market before real
+      entry execute, the algorithm can withstand the manipulation from market
+      maker.
     actions:
       - label: Learn More
         url: /features
