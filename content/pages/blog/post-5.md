@@ -1,5 +1,5 @@
 ---
-title: Amet Nulla Facilisi Morbi Tempus
+title: 5M Usdt bounty for new developer.
 date: '2020-06-02'
 author: content/data/team/gordon-norman.yaml
 categories:
